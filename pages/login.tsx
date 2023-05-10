@@ -10,6 +10,6 @@ export default function Login() {
           <LoginForm />
         </LoginContainer>
       </Main>
-    </Container>
+    </Container> 
   );
 }
